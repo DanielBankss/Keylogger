@@ -19,6 +19,14 @@ The Keyloggers purpose is to store the keys that are pressed whenever the python
 - An easy on the eye User Interface
 - All logs can be viewed in a scrollable frame (you can scroll through all the logs on the system)
 
+## How to install/use
+
+1) Download both the **keylogger.py** and **main.py** files.
+2) Store both these files in the same directory. For example, under a "Keylogger" folder.
+3) Ensure you have python installed on your system. You can download it here [https://python.org/](https://python.org/)
+4) Open a command prompt/terminal in that directory
+5) Run the command: **python main.py** or **python3 main.py** depending on your python version
+6) The UI should open and everything should be ready to use!
 
 ## Screenshots
 
