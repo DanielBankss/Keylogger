@@ -1,5 +1,5 @@
 # Keylogger
-This project is written to showcase skills within Python and UI Design. Along with the ability to efficiently comment code. 
+This project is written to showcase skills within Python, Regex and UI Design. Along with the ability to efficiently comment code. 
 
 The Keyloggers purpose is to store the keys that are pressed whenever the python file is being executed. There is also a UI to help the user do this. The UI allows you to view all of the logs that have been stored, and also edit the log file. You can also enable and disable the Keylogger from within the UI.
 
