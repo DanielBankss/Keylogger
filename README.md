@@ -7,31 +7,41 @@ The Keyloggers purpose is to store the keys that are pressed whenever the python
 - [Python](https://www.python.org)
 - [tkinter](https://docs.python.org/3/library/tkinter.html)
 - [custom-tkinter](https://pypi.org/project/customtkinter/0.3/)
+- [Regex](https://regexr.com)
 
 
 ## Features
-- Adding activities to the list
-- Removing activities from the list
-- All data being saved within a database
+- Can run the keylogger from within the UI
+- Monitor key presses whilst the keylogger is running
+- Ability to view the log file where all the logs are stored.
+- Ability to clear the log file to start fresh
+- Formatted response of the keypresses that occured to better see what the user was typing/trying to achieve
+- An easy on the eye User Interface
+- All logs can be viewed in a scrollable frame (you can scroll through all the logs on the system)
 
-## Missing Features / Future Ideas
-- Real time countdown on the dates so that page does not need to be constantly refreshed
-- Alerts whenever an activity is close to being due
 
 ## Screenshots
 
-> Image of the overall project
+> Image of the overall project [Keylogger not running]
  
-![A screenshot of the overall project screen](https://i.imgur.com/aDAqumC.png)
+![A screenshot of the overall project screen](https://imgur.com/TTFiDpM.png)
 
-> Image of an item being added to the list
+> Image of the overall project [Keylogger running]
 
-![A screenshot of adding an item to the list](https://i.imgur.com/80R5dm4.png)
+![A screenshot of overal project with the keylogger running](https://imgur.com/R6h6dOZ.png)
 
-> Image of an item inside of the list
+> Image of the log list
 
-![A screenshot of a item inside of the list](https://i.imgur.com/p4GvihS.png)
+![A screenshot of the log list](https://imgur.com/8qa9dCo.png)
 
-> Image of an expired item inside of the list (an item which is over the due date)
+> Result of clicking the view log list button on the sidebar
 
-![A screenshot of an expired item inside of the list](https://i.imgur.com/huDRwTJ.png)
+![A screenshot of the result of clicking the view log list button on the sidebar](https://imgur.com/rrTWqtf.png)
+
+> Result of clicking the CLEAR log list button on the sidebar.
+
+![A screenshot of the result of clicking the CLEAR log list button on the sidebar.](https://i.imgur.com/3p4B43D.png)
+
+> Result of clicking on one of the logs in the list
+
+![A screenshot of the result of clicking on one of the logs in the list](https://i.imgur.com/j4yXyi2.png)
